@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructures", "DataStruc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_BracketExample", "Stack_BracketExample\Stack_BracketExample.csproj", "{FF409D67-CE45-49F0-AB40-3F20F05DC942}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OtherAlgorithms", "OtherAlgorithms", "{A5DBA041-51D0-4284-9F32-D5B9710A0B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion_TreeTraversal", "Recursion_TreeTraversal\Recursion_TreeTraversal.csproj", "{9C9ED6F4-5BC8-4C4C-9B33-64348D5A5BEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{FF409D67-CE45-49F0-AB40-3F20F05DC942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF409D67-CE45-49F0-AB40-3F20F05DC942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF409D67-CE45-49F0-AB40-3F20F05DC942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C9ED6F4-5BC8-4C4C-9B33-64348D5A5BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9ED6F4-5BC8-4C4C-9B33-64348D5A5BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9ED6F4-5BC8-4C4C-9B33-64348D5A5BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9ED6F4-5BC8-4C4C-9B33-64348D5A5BEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,7 @@ Global
 		{650128A7-DA55-4C9F-9610-2BE27E69B717} = {6668DFA5-FB8B-4BFB-A601-3F5A2B295FCB}
 		{222B5DEB-B5E8-4E67-B280-C6FE8C874B35} = {DCF92B47-12BF-4BA9-B1FF-A86959692703}
 		{FF409D67-CE45-49F0-AB40-3F20F05DC942} = {7171ADA5-812B-43B4-B5E6-CF0408790A1F}
+		{9C9ED6F4-5BC8-4C4C-9B33-64348D5A5BEB} = {A5DBA041-51D0-4284-9F32-D5B9710A0B72}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {188B048E-D0AF-46F6-B959-A8E64FAADAFD}
