@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace BinarySearch
+﻿namespace BinarySearch
 {
     internal class Program
     {
@@ -38,7 +36,7 @@ namespace BinarySearch
                 }
                 else
                 {
-                    minIndex = middleIndex + 1; //
+                    minIndex = middleIndex + 1; // отбрасываем левую часть, работаем с правой частью
                 }
             }
             return -1;
