@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{222B5DEB-B5E8-4E67-B280-C6FE8C874B35}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sort", "Sort", "{6668DFA5-FB8B-4BFB-A601-3F5A2B295FCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Search", "Search", "{DCF92B47-12BF-4BA9-B1FF-A86959692703}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +34,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{41DF31EA-BBAC-46AE-A728-CAC899631AF0} = {6668DFA5-FB8B-4BFB-A601-3F5A2B295FCB}
+		{650128A7-DA55-4C9F-9610-2BE27E69B717} = {6668DFA5-FB8B-4BFB-A601-3F5A2B295FCB}
+		{222B5DEB-B5E8-4E67-B280-C6FE8C874B35} = {DCF92B47-12BF-4BA9-B1FF-A86959692703}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {188B048E-D0AF-46F6-B959-A8E64FAADAFD}
