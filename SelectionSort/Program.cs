@@ -9,6 +9,10 @@
             Console.WriteLine(string.Join(", ", numbers)); // Вывод: 11, 12, 22, 25, 64
         }
 
+        /// <summary>
+        /// Сортировка выбором
+        /// </summary>
+        /// <param name="array"></param>
         public static void SelectionSort(int[] array)
         {
             for (int i = 0; i < array.Length - 1; i++)
