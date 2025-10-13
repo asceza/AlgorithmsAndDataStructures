@@ -7,6 +7,7 @@
 * [Сортировка выбором (in-place)](https://github.com/asceza/AlgorithmsAndDataStructures/tree/master/SelectionSort)
 * [Сортировка выбором с использованием вспомогательного массива](https://github.com/asceza/AlgorithmsAndDataStructures/tree/master/SelectionSortWithSecondArray)
 * [Быстрая сортировка](https://github.com/asceza/AlgorithmsAndDataStructures/tree/master/QuickSort)
+* [Сортировка пузырьком](https://github.com/asceza/AlgorithmsAndDataStructures/tree/master/BubbleSort)
 
 ## ⚙️ Другие алгоритмы
 * [Рекурсия (обход дерева)](https://github.com/asceza/AlgorithmsAndDataStructures/tree/master/Recursion_TreeTraversal)
