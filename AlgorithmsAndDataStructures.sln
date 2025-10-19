@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort", "BubbleSort\Bu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocktailSort", "CocktailSort\CocktailSort.csproj", "{F7E5122A-ADE1-4BD0-B8A2-DB64FF0BDE51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "InsertionSort\InsertionSort.csproj", "{F902BABB-1FCB-47F2-9961-AA91476730E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{F7E5122A-ADE1-4BD0-B8A2-DB64FF0BDE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7E5122A-ADE1-4BD0-B8A2-DB64FF0BDE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7E5122A-ADE1-4BD0-B8A2-DB64FF0BDE51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F902BABB-1FCB-47F2-9961-AA91476730E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F902BABB-1FCB-47F2-9961-AA91476730E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F902BABB-1FCB-47F2-9961-AA91476730E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F902BABB-1FCB-47F2-9961-AA91476730E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,6 +84,7 @@ Global
 		{D38C3BC0-F411-4C42-A86D-4A38FCC1551B} = {6668DFA5-FB8B-4BFB-A601-3F5A2B295FCB}
 		{032BF66F-C543-4D16-B67E-3C2B428BBE4C} = {6668DFA5-FB8B-4BFB-A601-3F5A2B295FCB}
 		{F7E5122A-ADE1-4BD0-B8A2-DB64FF0BDE51} = {6668DFA5-FB8B-4BFB-A601-3F5A2B295FCB}
+		{F902BABB-1FCB-47F2-9961-AA91476730E6} = {6668DFA5-FB8B-4BFB-A601-3F5A2B295FCB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {188B048E-D0AF-46F6-B959-A8E64FAADAFD}
