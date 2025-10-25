@@ -8,6 +8,7 @@
             Console.WriteLine(IsBalanced("{выражение[выражение(выражение])}")); // False
         }
 
+        /// <summary>Определение совпадения открытых и закрытых скобок в выражении</summary>
         public static bool IsBalanced(string expression)
         {
             // Создаем стек для хранения открывающих скобок
