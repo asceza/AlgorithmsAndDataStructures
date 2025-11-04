@@ -13,6 +13,7 @@
 * [Сортировка Шелла](https://github.com/asceza/AlgorithmsAndDataStructures/tree/master/Sort/ShellSort)
 * [Сортировка Деревом](https://github.com/asceza/AlgorithmsAndDataStructures/tree/master/Sort/TreeSort)
 * [Пирамидальная сортировка](https://github.com/asceza/AlgorithmsAndDataStructures/tree/master/Sort/HeapSort)
+* [Сортировка слиянием](https://github.com/asceza/AlgorithmsAndDataStructures/tree/master/Sort/MergeSort)
 
 
 
